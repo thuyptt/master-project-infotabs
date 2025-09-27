@@ -1,1 +1,1 @@
-# master-thesis-infotabs
+# master-project-infotabs
